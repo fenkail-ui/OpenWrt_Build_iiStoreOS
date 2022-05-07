@@ -1,4 +1,4 @@
-name: Build_x86_515_lite
+name: Build_x86_515_lite_docker
 
 on: 
   repository_dispatch:
